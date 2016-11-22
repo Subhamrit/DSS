@@ -6,7 +6,8 @@ html, body {
     padding: 0;
 }
 
-.float {
-	margin-top: 10%;
-	margin-bottom: 10%;
+#logo {
+	margin-top: 5%;
+	width: 30%;
+	height: 10%;
 }
